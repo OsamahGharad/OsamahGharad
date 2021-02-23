@@ -23,7 +23,7 @@ I always look forward to working for a dynamic, growth oriented company that fos
 ###  How to reach me? 📫
 https://osamagharad.netlify.app/
 
-github-readme-stats.vercel.app/api?username=OsamahGharad)](https://github.com/OsamahGharad/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamahGharad)](https://github.com/OsamahGharad/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamahGharad)](https://github.com/OsamahGharad/github-readme-stats)
 
