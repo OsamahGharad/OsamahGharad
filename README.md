@@ -21,7 +21,7 @@ In my free time , I keep learning and expanding my skills and knowledge related 
 I always look forward to working for a dynamic, growth oriented company that foster personal and professional growth to pursue my goals while I support in achieving corporate goals and mission under menimal supervision.
 
 ###  How to reach me? 📫
-https://osamagharad-30985.netlify.app/
+https://osamagharad.netlify.app/
 
 
 
