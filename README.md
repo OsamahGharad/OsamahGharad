@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Free Time 😄 
 In my free time , I keep learning and expanding my skills and knowledge related to my major.
-### What I look forward  👯
+### What I look forward  ⚡
 I always look forward to working for a dynamic, growth oriented company that foster personal and professional growth to pursue my goals while I support in achieving corporate goals and mission under menimal supervision.
 
 ###  How to reach me? 📫
